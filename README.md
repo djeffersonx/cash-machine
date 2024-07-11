@@ -1,1 +1,3 @@
 # cash-machine
+
+TEST
