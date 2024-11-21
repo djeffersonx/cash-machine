@@ -1,2 +1,1 @@
 # cash-machine
-s
